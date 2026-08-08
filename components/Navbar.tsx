@@ -33,7 +33,7 @@ export default function Navbar() {
           </div>
           <div>
             <span className="text-xl font-extrabold tracking-tight bg-gradient-to-r from-white via-teal-200 to-teal-400 bg-clip-text text-transparent">
-              AuraGear
+              Apple Heaven
             </span>
             <span className="block text-[10px] text-teal-400 uppercase tracking-widest font-semibold -mt-1">
               Mobile Accessories
