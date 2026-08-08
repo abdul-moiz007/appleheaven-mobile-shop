@@ -116,7 +116,7 @@ export default function HomePage() {
             </p>
             <div className="pt-2">
               <a
-                href="https://wa.me/923001234567"
+                href="https://wa.me/923330545222"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-emerald-500 text-darkBg font-bold text-xs hover:bg-emerald-400 transition shadow-lg shadow-emerald-500/20"
